@@ -4,7 +4,7 @@ import styled from 'styled-components';
 const FormContainer = styled.form`
     display: flex;
     align-items: flex-end;
-    gap: 10px; /* Correção da propriedade */
+    gap: 10px; 
     flex-wrap: wrap;
     background: #fff;
     padding: 20px;
